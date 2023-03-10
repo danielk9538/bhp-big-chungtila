@@ -76,15 +76,19 @@ a {
 .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
-    position:fixed;
+
+    width: 100%;
     border: 0;
     border-radius: 0;
-    margin-bottom: 0;
+    margin-bottom: 0px;
     font-size: 12px;
     letter-spacing: 5px;
     z-index:2;
 }
 
+.mainbody {
+    padding-top: -20px
+}
 .navbar-nav li a:hover {
     color: #ffffff !important;
 }
