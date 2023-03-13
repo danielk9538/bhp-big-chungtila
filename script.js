@@ -20,7 +20,7 @@ function topFunction() {
 
 
 
-let ownerName = "BHP"; // update the part BETWEEN the "quotes"
+let ownerName = "Big History Project"; // update the part BETWEEN the "quotes"
 let userName = "danielk9538"; // same here
 
 document.querySelectorAll(".owner-name").forEach((e) => {
