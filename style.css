@@ -46,6 +46,7 @@ footer {
 .bg-1 {
     background-color: #FFEDDF; /* White */
     color: #555555;
+    min-height: 75vh;
 }
 .mxh{
     height: 100vh;
